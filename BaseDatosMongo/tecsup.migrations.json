@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6572595e6a8ae4db000c0372"
+  },
+  "migration": "2014_10_12_000000_create_users_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595e6a8ae4db000c0373"
+  },
+  "migration": "2014_10_12_100000_create_password_resets_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595e6a8ae4db000c0374"
+  },
+  "migration": "2019_08_19_000000_create_failed_jobs_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595e6a8ae4db000c0375"
+  },
+  "migration": "2019_12_14_000001_create_personal_access_tokens_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c0376"
+  },
+  "migration": "2021_12_28_031441_create_settings_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c0377"
+  },
+  "migration": "2021_12_28_032107_create_students_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c0378"
+  },
+  "migration": "2021_12_28_032307_create_publishers_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c0379"
+  },
+  "migration": "2021_12_28_032327_create_categories_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c037a"
+  },
+  "migration": "2021_12_28_032552_create_authers_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c037b"
+  },
+  "migration": "2021_12_28_032555_create_books_table",
+  "batch": 1
+},
+{
+  "_id": {
+    "$oid": "6572595f6a8ae4db000c037c"
+  },
+  "migration": "2021_12_28_032649_create_book_issues_table",
+  "batch": 1
+}]

@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65725f911349b9eb50026754"
+  },
+  "name": "Mario Vargas Llosa",
+  "updated_at": {
+    "$date": "2023-12-08T00:13:05.042Z"
+  },
+  "created_at": {
+    "$date": "2023-12-08T00:13:05.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65725f9c1349b9eb50026755"
+  },
+  "name": "J.K. Rowling",
+  "updated_at": {
+    "$date": "2023-12-08T00:13:16.680Z"
+  },
+  "created_at": {
+    "$date": "2023-12-08T00:13:16.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657763e0f83825af210e82b0"
+  },
+  "name": "Katya Adaui",
+  "updated_at": {
+    "$date": "2023-12-11T19:32:48.726Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:32:48.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657763e5f83825af210e82b1"
+  },
+  "name": "José Carlos Agüero",
+  "updated_at": {
+    "$date": "2023-12-11T19:32:53.888Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:32:53.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657763ecf83825af210e82b2"
+  },
+  "name": "Miluska Benavides",
+  "updated_at": {
+    "$date": "2023-12-11T19:33:00.251Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:33:00.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657763f1f83825af210e82b3"
+  },
+  "name": "Rafael Dumett",
+  "updated_at": {
+    "$date": "2023-12-11T19:33:05.196Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:33:05.196Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776422f83825af210e82b4"
+  },
+  "name": "Alina Gadea",
+  "updated_at": {
+    "$date": "2023-12-11T19:33:54.196Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:33:54.196Z"
+  }
+}]

@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65725eaa1349b9eb50026753"
+  },
+  "name": "Albert",
+  "address": "Av.Progreso 1564",
+  "gender": "male",
+  "class": "Universitario",
+  "age": "23",
+  "phone": "987654321",
+  "email": "albert@gmail.com",
+  "updated_at": {
+    "$date": "2023-12-08T00:09:14.227Z"
+  },
+  "created_at": {
+    "$date": "2023-12-08T00:09:14.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577654af83825af210e82ba"
+  },
+  "name": "Manuel Velazques",
+  "address": "Av Union",
+  "gender": "male",
+  "class": "Universitario",
+  "age": "24",
+  "phone": "987654321",
+  "email": "manuel@gmail.com",
+  "updated_at": {
+    "$date": "2023-12-11T19:38:50.511Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:38:50.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776571f83825af210e82bb"
+  },
+  "name": "Manolo Ruiz",
+  "address": "Av Independencia",
+  "gender": "male",
+  "class": "Tecnico",
+  "age": "26",
+  "phone": "951654785",
+  "email": "manolo@gmail.com",
+  "updated_at": {
+    "$date": "2023-12-11T19:39:29.916Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:39:29.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776592f83825af210e82bc"
+  },
+  "name": "Rosa Mendoza",
+  "address": "Calle Apurimac",
+  "gender": "female",
+  "class": "Universitario",
+  "age": "26",
+  "phone": "987369258",
+  "email": "rosa@gmail.com",
+  "updated_at": {
+    "$date": "2023-12-11T19:40:02.431Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:40:02.431Z"
+  }
+}]

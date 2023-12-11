@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65776456f83825af210e82b5"
+  },
+  "name": "Harry Potter y El Misterio del Principe",
+  "category_id": "657260c01349b9eb50026756",
+  "auther_id": "65725f9c1349b9eb50026755",
+  "publisher_id": "657260c71349b9eb50026757",
+  "status": "N",
+  "updated_at": {
+    "$date": "2023-12-11T19:51:19.060Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:34:46.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657764c7f83825af210e82b6"
+  },
+  "name": "La Ciudad y los Perros",
+  "category_id": "65776384f83825af210e82ad",
+  "auther_id": "65725f911349b9eb50026754",
+  "publisher_id": "657762b2f83825af210e82a9",
+  "status": "Y",
+  "updated_at": {
+    "$date": "2023-12-11T19:55:53.277Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:36:39.959Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657764e6f83825af210e82b7"
+  },
+  "name": "El juicio final",
+  "category_id": "65776384f83825af210e82ad",
+  "auther_id": "657763f1f83825af210e82b3",
+  "publisher_id": "657762bff83825af210e82aa",
+  "status": "N",
+  "updated_at": {
+    "$date": "2023-12-11T19:51:12.264Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:37:10.812Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657764fcf83825af210e82b8"
+  },
+  "name": "La caza espiritual",
+  "category_id": "657763a4f83825af210e82af",
+  "auther_id": "657763ecf83825af210e82b2",
+  "publisher_id": "65776290f83825af210e82a5",
+  "status": "Y",
+  "updated_at": {
+    "$date": "2023-12-11T19:37:32.332Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:37:32.332Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776515f83825af210e82b9"
+  },
+  "name": "Enemigo",
+  "category_id": "6577639cf83825af210e82ae",
+  "auther_id": "657763e5f83825af210e82b1",
+  "publisher_id": "6577635ff83825af210e82ab",
+  "status": "N",
+  "updated_at": {
+    "$date": "2023-12-11T19:51:29.438Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:37:57.144Z"
+  }
+}]

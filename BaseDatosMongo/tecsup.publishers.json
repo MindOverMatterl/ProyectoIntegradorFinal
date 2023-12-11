@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "657260c71349b9eb50026757"
+  },
+  "name": "Editorial Diamante",
+  "updated_at": {
+    "$date": "2023-12-08T00:18:15.347Z"
+  },
+  "created_at": {
+    "$date": "2023-12-08T00:18:15.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577627bf83825af210e82a4"
+  },
+  "name": "Alfgar Editorial",
+  "updated_at": {
+    "$date": "2023-12-11T19:26:51.620Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:26:51.620Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776290f83825af210e82a5"
+  },
+  "name": "Ediciones Magic Book S.A.C",
+  "updated_at": {
+    "$date": "2023-12-11T19:27:12.306Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:27:12.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776296f83825af210e82a6"
+  },
+  "name": "Empresa Editora El Comercio S.A.",
+  "updated_at": {
+    "$date": "2023-12-11T19:27:18.901Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:27:18.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577629ef83825af210e82a7"
+  },
+  "name": "Grupo Editorial Mesa Redonda S.A.C",
+  "updated_at": {
+    "$date": "2023-12-11T19:27:26.327Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:27:26.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657762a6f83825af210e82a8"
+  },
+  "name": "Fondo Editorial Universidad Peruana de Ciencias Aplicadas",
+  "updated_at": {
+    "$date": "2023-12-11T19:27:34.621Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:27:34.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657762b2f83825af210e82a9"
+  },
+  "name": "Grupo Editorial Caja Negra",
+  "updated_at": {
+    "$date": "2023-12-11T19:27:46.605Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:27:46.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "657762bff83825af210e82aa"
+  },
+  "name": "Colmena Editores",
+  "updated_at": {
+    "$date": "2023-12-11T19:27:59.603Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:27:59.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6577635ff83825af210e82ab"
+  },
+  "name": "Editorial Ambar",
+  "updated_at": {
+    "$date": "2023-12-11T19:30:39.708Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:30:39.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65776367f83825af210e82ac"
+  },
+  "name": "Editorial Futura",
+  "updated_at": {
+    "$date": "2023-12-11T19:30:47.149Z"
+  },
+  "created_at": {
+    "$date": "2023-12-11T19:30:47.149Z"
+  }
+}]
